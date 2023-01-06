@@ -1,2 +1,2 @@
-# scrape_url
-Scraping url based on given url and maximum page.
+# Analysing Amazon Electronics dataset.
+Scraped data from Amazon.com and cleaned and transformed data.
